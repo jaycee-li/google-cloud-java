@@ -32,7 +32,7 @@
       <dependency>
         <groupId>com.google.shopping.api.grpc</groupId>
         <artifactId>grpc-google-shopping-css-v1</artifactId>
-        <version>0.1.0</version><!-- {x-version-update:grpc-google-shopping-css-v1:current} -->
+        <version>0.1.0gapic-libraries-bom</version><!-- {x-version-update:grpc-google-shopping-css-v1:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.shopping.api.grpc</groupId>
