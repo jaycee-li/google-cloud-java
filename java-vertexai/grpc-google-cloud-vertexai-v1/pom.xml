@@ -10,7 +10,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-vertexai-parent</artifactId>
-    <version>0.3.0-SNAPSHOT</version><!-- {x-version-update:google-cloud-vertexai:current} -->
+    <version>0.2.1-SNAPSHOT</version><!-- {x-version-update:google-cloud-vertexai:current} -->
   </parent>
   <dependencies>
     <dependency>
